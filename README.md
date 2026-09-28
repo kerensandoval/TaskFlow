@@ -59,3 +59,18 @@ Una vez iniciada la aplicación, puedes registrar nuevas tareas, editarlas y asi
 ## Contribuidores
 
 - [kerensandoval](https://github.com/kerensandoval)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/kerensandoval/TaskFlow)
+![GitHub issues](https://img.shields.io/github/issues/kerensandoval/TaskFlow)
+![GitHub stars](https://img.shields.io/github/stars/kerensandoval/TaskFlow)
+
+# TaskFlow
+
+![GitHub last commit](https://img.shields.io/github/last-commit/kerensandoval/TaskFlow)
+![GitHub issues](https://img.shields.io/github/issues/kerensandoval/TaskFlow)
+![GitHub stars](https://img.shields.io/github/stars/kerensandoval/TaskFlow)
+
+> Administra las tareas de tu equipo de forma simple y organizada
+
+## Tabla de contenidos
+...
