@@ -74,3 +74,23 @@ Una vez iniciada la aplicación, puedes registrar nuevas tareas, editarlas y asi
 
 ## Tabla de contenidos
 ...
+
+## Capturas de pantalla
+
+### Pantalla principal
+
+![Pantalla principal](docs/img/inicio.png)
+
+### Inicio de sesión
+
+![Inicio de sesión](docs/img/login.png)
+
+### Gestión de tareas
+
+![Gestión de tareas](docs/img/tareas.png)
+
+### Perfil de usuario
+
+![Perfil de usuario](docs/img/perfil.png)
+
+- [Capturas de pantalla](#capturas-de-pantalla)
