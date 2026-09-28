@@ -56,6 +56,24 @@ TaskFlow es una aplicación sencilla para administrar las tareas de un equipo. P
 
 Una vez iniciada la aplicación, puedes registrar nuevas tareas, editarlas y asignarlas a los integrantes del equipo.
 
+## Estructura del proyecto
+
+```
+TaskFlow/
+├── README.md
+└── docs/
+    └── img/
+        ├── inicio.png
+        ├── login.png
+        ├── tareas.png
+        └── perfil.png
+```
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+
+
 ## Contribuidores
 
 - [kerensandoval](https://github.com/kerensandoval)
